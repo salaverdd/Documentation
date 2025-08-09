@@ -16,6 +16,15 @@ It also covers how to connect a second device to it, find its IP addresses, and 
 
 ---
 
+## 📥 Step 0 — Flashing OpenWrt Image to Orange Pi
+
+Before you can configure your Orange Pi as a router, you need to write the OpenWrt firmware image to its microSD card. You can use for example BalenaEtcher to do that.
+Find the image here:
+
+https://drive.google.com/drive/folders/173IOA9AQr6Jy0bkmaNmt8QL3bSG5_xoq?usp=sharing
+
+---
+
 ## 🔌 Physical Connection Overview
 
 **Before configuration:**
